@@ -1,0 +1,8 @@
+Jay Xiao
+
+This is a project that I completed for Bootcamp Java. It is a personal planner that utilizes polymorphism.
+
+The project description was: 
+The ultimate goal is to create a Planner class that can hold different kinds of jobs that you need to complete. The simplest type of job is a Task, such as "laundry" or "haircut", etc. These don't have any particular deadlines associated with them. The next level of job is essentially a task that has a deadline (called DueDo). Each one of these, in addition to the actual job (such as "doing Java homework") has a deadline which consists of a date and time. The third job type is an Appointment which is something to do, at a specific date and start time, that also has a location and expected end time.
+
+I was given the starter files for this assignment, and had to complete the implementations of the classes based on the documentation.

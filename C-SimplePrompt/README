@@ -1,3 +1,4 @@
 Jay Xiao
 
-This is not a class project, but a simple prompter adapted from a classroom project
+This is not a class project, but a simple prompter. It prompts the user on name, age, and favorite color and food.
+The program will output the information the user has given.

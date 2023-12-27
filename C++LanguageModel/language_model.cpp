@@ -1,5 +1,4 @@
 //jayxiao
-//jxiao23
 #include <iostream>
 #include <string>
 #include <fstream>

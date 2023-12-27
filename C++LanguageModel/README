@@ -1,9 +1,13 @@
-//jay xiao
-//jxiao23
-I used maps to hold the data for my code because I felt like that was the easiest way
-I defined functions for handling each command so that I just had to call them in my main function,
-as well as one additional function that created the map that every other function used in their implementation
-to keep track of the trigrams and their counts, and I could iterate over it to print outputs.
-One thing that I did that really helped me was concatenating the trigrams together to form one string
-before I added them to the map
+Jay Xiao
 
+This is a classwork project from Intermediate Programming. I was given template files and tasked to build a language model: 
+The language model is based on word-level trigram frequency: how often ordered triples of words appear 
+consecutively in a collection of example texts.
+
+There were 4 different input commands that would prompt the program to perform operations:
+a - output a list of all trigrams found in the training data, along with their frequency counts, 
+ordered lexicographically by trigram in ascending order
+d - output a list of all trigrams found in the training data, and their frequency counts, 
+ordered lexicographically by trigram in descending order
+c - output a list of trigrams found in the training data, and their frequency counts, ordered in decreasing order by count.
+f - output the most frequently occuring third word given the first two words
